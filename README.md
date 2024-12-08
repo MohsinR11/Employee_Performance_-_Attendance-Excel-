@@ -28,4 +28,4 @@ This project evaluates employee performance metrics and attendance records to id
 
 
 ## **Contact**  
-📧 **Mohsin Raza**: mohsinraza@example.com  
+📧 **Mohsin Raza**: mohsinansari1799@gmail.com 
