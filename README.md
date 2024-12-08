@@ -1,25 +1,31 @@
-# Employee Performance and Attendance Report (Excel)
+# **Employee Performance and Attendance Report (Excel)**  
+
+## **Overview**  
+This project evaluates employee performance metrics and attendance records to identify trends and improve productivity.  
+
+## **Objective**  
+- Track attendance patterns.  
+- Identify top-performing employees based on KPIs.  
+
+## **Skills and Tools Used**  
+- **Skills**: Data cleaning, PivotTables, advanced Excel formulas, and conditional formatting.  
+- **Tools**: Microsoft Excel.  
+
+## **Key Insights**  
+- Attendance trends over time.  
+- Employees with the highest performance scores.  
+
+## **Dataset Details**  
+- **Source**: Simulated HR data.  
+- **Contents**:  
+  - Attendance logs (dates, hours worked).  
+  - Performance reviews (KPI scores, project completion status).  
+
+## **Key Steps**  
+1. Used conditional formatting to highlight absenteeism.  
+2. Built PivotTables to summarize attendance and performance by employee.  
+3. Created a dashboard for visualizing trends.  
 
 
-# Overview
-
-This project evaluates employee performance metrics and attendance records.
-
-
-# Objective
-
-1) Track attendance patterns and identify trends.
-
-2) Measure performance KPIs for productivity analysis.
-
-
-# Skills and Tools
-
-Excel: Pivot tables, dashboards, and advanced formulas.
-
-
-# Key Insights
-
-1) Attendance trends over time.
-
-2) Top-performing employees based on KPIs.
+## **Contact**  
+📧 **Mohsin Raza**: mohsinraza@example.com  
